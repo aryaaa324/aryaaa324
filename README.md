@@ -65,6 +65,7 @@
 - 📧 Email: arya.kashikar03@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arya-kashikar-262b17285/)
 
+---
 
 ## 🏆 Achievements  
 - 🏅 **Research Excellence Awards (2023-2025)**: Received consecutive research awards for two years (2023-2025) in recognition of contributions with 8+ SCOPUS-indexed research papers published.  
