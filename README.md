@@ -58,7 +58,8 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?
 
-  ## 📬 Get in Touch  
+ 
+## 📬 Get in Touch  
 
 <p>
   <a href="mailto:arya.kashikar03@gmail">
