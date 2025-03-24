@@ -63,5 +63,5 @@
 
 ## 📬 Get in Touch  
 - 📧 Email: arya.kashikar03@gmail.com  
-- 💼 LinkedIn: your-linkedin-profile  
+- 💼 LinkedIn:in/arya-kashikar-262b17285 
 
