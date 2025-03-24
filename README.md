@@ -65,3 +65,9 @@
 - 📧 Email: arya.kashikar03@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arya-kashikar-262b17285/)
 
+
+## 🏆 Achievements  
+- 🏅 **Research Excellence Awards (2023-2025)**: Received consecutive research awards for two years (2023-2025) in recognition of contributions with 8+ SCOPUS-indexed research papers published.  
+- 🎖 **Best Club Award (2024-2025)**: IEEE Student Branch, Symbiosis Institute of Technology, Nagpur — Led as Chair, achieving the Best Club Award for organizing 15+ national and international technical events, mentoring 100+ students, and facilitating industry collaborations.  
+- 🚀 **SITNovate 24-Hour Hackathon (2025)**: Successfully organized and led the SITNovate Hackathon at SIT Nagpur, with 780+ participants, fostering innovation and industry engagement.  
+
