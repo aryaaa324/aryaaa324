@@ -59,6 +59,23 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+### 🛠️ DevOps & Version Control  
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 📊 Mathematical & Statistical Tools  
+<p>
+  <img src="https://img.shields.io/badge/SPSS-005C97?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+### 🔍 Other Tools & Technologies  
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 ---
 
 ## 📬 Get in Touch  
