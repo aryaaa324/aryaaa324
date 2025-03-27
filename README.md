@@ -82,7 +82,7 @@
 
 ## 📬 Get in Touch  
 - 📧 Email: arya.kashikar03@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arya-kashikar-262b17285/)
+- 💼 Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/arya-kashikar-262b17285/)
 
 ---
 
