@@ -92,8 +92,8 @@
 - 🚀 **SITNovate 24-Hour Hackathon (2025)**: Successfully organized and led the SITNovate Hackathon at SIT Nagpur, with 780+ participants, fostering innovation and industry engagement.  
 
 ## Role of Responsibility
-- IEEE Chair, Symbiosis Institute of Technology Nagpur (Aug 2024- July 2025)
-- GirlScript Nagpur City Lead
+- IEEE Chair, Symbiosis Institute of Technology Nagpur (Aug 2024-July 2025)
+- GirlScript Nagpur City Lead (Jan 2024-Oct 2024)
 - Lead of Computer Society of India(CSI), Symbiosis Institute of Technology Nagpur
 - Coder, Google Developers Students Club, Symbiosis Institute of Technology Nagpur
 - Member, Google WomenTechMakers, Nagpur
