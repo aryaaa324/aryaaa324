@@ -96,4 +96,4 @@
 - GirlScript Nagpur City Lead
 - Lead of Computer Society of India(CSI), Symbiosis Institute of Technology Nagpur
 - Coder, Google Developers Students Club, Symbiosis Institute of Technology Nagpur
-- 
+- Member, Google WomenTechMakers, Nagpur
