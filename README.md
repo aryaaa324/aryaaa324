@@ -95,5 +95,5 @@
 - IEEE Chair, Symbiosis Institute of Technology Nagpur (Aug 2024-July 2025)
 - GirlScript Nagpur City Lead (Jan 2024-Oct 2024)
 - Lead of Computer Society of India(CSI), Symbiosis Institute of Technology Nagpur (Dec 2023-May 2024)
-- Coder, Google Developers Students Club, Symbiosis Institute of Technology Nagpur
-- Member, Google WomenTechMakers, Nagpur
+- Coder, Google Developers Students Club, Symbiosis Institute of Technology Nagpur (Aug 2023-May 2024)
+- Member, Google WomenTechMakers, Nagpur (May 2022-Present)
