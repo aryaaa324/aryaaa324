@@ -91,3 +91,9 @@
 - 🎖 **Best Club Award (2024-2025)**: IEEE Student Branch, Symbiosis Institute of Technology, Nagpur — Led as Chair, achieving the Best Club Award for organizing 15+ national and international technical events, mentoring 100+ students, and facilitating industry collaborations.  
 - 🚀 **SITNovate 24-Hour Hackathon (2025)**: Successfully organized and led the SITNovate Hackathon at SIT Nagpur, with 780+ participants, fostering innovation and industry engagement.  
 
+## Role of Responsibility
+- IEEE Chair, Symbiosis Institute of Technology Nagpur
+- GirlScript Nagpur City Lead
+- Lead of Computer Society of India(CSI), Symbiosis Institute of Technology Nagpur
+- Coder, Google Developers Students Club, Symbiosis Institute of Technology Nagpur
+- 
