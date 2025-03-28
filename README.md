@@ -85,7 +85,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=radical)
 
 ---
-![GitHub Contributions](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories_contributed.svg)
+![Top Repos](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)
 
 ---
 ## 📬 Get in Touch  
