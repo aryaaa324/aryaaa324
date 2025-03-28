@@ -85,6 +85,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=radical)
 
 ---
+![GitHub Contributions](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories_contributed.svg)
+
+---
 ## 📬 Get in Touch  
 - 📧 Email: arya.kashikar03@gmail.com
 - 💼 Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/arya-kashikar-262b17285/)
