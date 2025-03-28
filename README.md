@@ -88,7 +88,8 @@
 ![Top Repos](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)
 
 ---
-![GitHub Contributions](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories_contributed.svg)
+![Arya's Top Contributions](https://metrics.lecoq.io/aryaaa324?template=classic&repositories_contributed=true)
+
 
 ---
 ## 📬 Get in Touch  
