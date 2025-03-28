@@ -83,10 +83,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aryaaa324&theme=dark)
-
-![GitHub Contributions](https://metrics.lecoq.io/aryaaa324?template=classic&repositories_contributed=true)
-
 ---
 ## 📬 Get in Touch  
 - 📧 Email: arya.kashikar03@gmail.com
