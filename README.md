@@ -79,15 +79,13 @@
 
 
 ---
+![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=dark)
 
----
-![Top Repos](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aryaaa324&theme=dark)
 
----
-![Arya's Top Contributions](https://metrics.lecoq.io/aryaaa324?template=classic&repositories_contributed=true)
-
+![GitHub Contributions](https://metrics.lecoq.io/aryaaa324?template=classic&repositories_contributed=true)
 
 ---
 ## 📬 Get in Touch  
