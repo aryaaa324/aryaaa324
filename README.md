@@ -2,7 +2,7 @@
 🔹 A pre-final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
 🔹 **Passionate** about Problem Solving and contributing to impactful projects 🤖  
 🔹 **Research Intern Experience** at Carnegie Mellon University,USA & IIT Mandi
-🔹 **Published 8+ Research Papers** in IEEE & Springer SCOPUS-indexed conferences 
+🔹 **Published 8+ Research Papers** in IEEE & Springer SCOPUS-indexed conferences
 
 ## 🛠️ Tech Stack  
 
