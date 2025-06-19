@@ -1,14 +1,18 @@
-## Hey👋, This is Arya!  
+## Hey, This is Arya!  
 
+I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
+>> On a relentless pursuit to build intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud infrastructure. Whether it's deploying models at scale, optimizing performance, or enabling real-time intelligence, I'm passionate about engineering systems where smart meets scalable.
+
+![Cloud Server Animation](assets/cloud-server.gif)
+
+---
+## About Me
 🔹 A pre-final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
 🔹 **Passionate** about problem solving and contributing to impactful projects 🤖  
 🔹 **Research Intern** at Carnegie Mellon University, USA & IIT Mandi 
 🔹 **Published 8+ Research Papers** in IEEE & Springer SCOPUS-indexed conferences 📚  
 🔹 **AI & Cloud Enthusiast**, currently focusing on **AWS Cloud Solutions** ☁️  
 
-![Cloud Server Animation](assets/cloud-server.gif)
-
----
 ## 🎯 Career Interests & Opportunities
 Currently, I am focusing on:
 - Advancing skills in **AWS Cloud Services** and **serverless architectures**
