@@ -1,7 +1,7 @@
 ## Hey, This is Arya!  
 
 I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
->> On a relentless pursuit to build intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud infrastructure. Whether it's deploying models at scale, optimizing performance, or enabling real-time intelligence, I'm passionate about engineering systems where smart meets scalable.
+> On a relentless pursuit to build intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud infrastructure. Whether it's deploying models at scale, optimizing performance, or enabling real-time intelligence, I'm passionate about engineering systems where smart meets scalable.
 
 ![Cloud Server Animation](assets/cloud-server.gif)
 
