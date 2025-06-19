@@ -2,7 +2,7 @@
 
 🔹 A pre-final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
 🔹 **Passionate** about problem solving and contributing to impactful projects 🤖  
-🔹 **Research Intern** at Carnegie Mellon University, USA & IIT Mandi 🇺🇸🇮🇳  
+🔹 **Research Intern** at Carnegie Mellon University, USA & IIT Mandi 
 🔹 **Published 8+ Research Papers** in IEEE & Springer SCOPUS-indexed conferences 📚  
 🔹 **AI & Cloud Enthusiast**, currently focusing on **AWS Cloud Solutions** ☁️  
 
@@ -13,7 +13,6 @@
 Currently, I am focusing on:
 - Advancing skills in **AWS Cloud Services** and **serverless architectures**
 - Deepening my expertise in **Generative AI**, **Agentic AI workflows**, and **Retrieval-Augmented Generation (RAG)**
-- Exploring cutting-edge techniques in **signal & audio processing** for intelligent systems
 - Leveraging my research background to build **scalable AI-powered applications**
 
 📬 **I am open to opportunities** in:
