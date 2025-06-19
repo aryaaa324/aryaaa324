@@ -10,6 +10,7 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 🔹 A pre-final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
 🔹 **Passionate** about problem solving and contributing to impactful projects 🤖     
 🔹 **Research Intern** at Carnegie Mellon University, USA & IIT Mandi 
+
 🔹 **AI & Cloud Enthusiast**, currently focusing on **AWS Cloud Solutions** ☁️  
 
 ## 🎯 Career Interests & Opportunities
