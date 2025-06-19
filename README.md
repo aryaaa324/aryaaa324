@@ -7,6 +7,18 @@
 🔹 **AI & Cloud Enthusiast**, currently focusing on **AWS Cloud Solutions** ☁️  
 
 ---
+## 🎯 Career Interests & Opportunities
+Currently, I am focusing on:
+- Advancing skills in **AWS Cloud Services** and **serverless architectures**
+- Deepening my expertise in **Generative AI**, **Agentic AI workflows**, and **Retrieval-Augmented Generation (RAG)**
+- Exploring cutting-edge techniques in **signal & audio processing** for intelligent systems
+- Leveraging my research background to build **scalable AI-powered applications**
+
+📬 **I am open to opportunities** in:
+- **Artificial Intelligence & Machine Learning**
+- **Cloud Engineering** (with a focus on AWS)
+
+---
 ## Technical Expertise
 ### 💻 Programming
 
