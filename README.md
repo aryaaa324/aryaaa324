@@ -5,6 +5,7 @@
 🔹 **Research Intern** at Carnegie Mellon University, USA & IIT Mandi 🇺🇸🇮🇳  
 🔹 **Published 8+ Research Papers** in IEEE & Springer SCOPUS-indexed conferences 📚  
 🔹 **AI & Cloud Enthusiast**, currently focusing on **AWS Cloud Solutions** ☁️  
+![Cloud Server Animation](assets/cloud-server.gif)
 
 ---
 ## 🎯 Career Interests & Opportunities
