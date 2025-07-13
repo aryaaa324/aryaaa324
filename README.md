@@ -1,97 +1,108 @@
 ## Hey, This is Arya!  
 
-I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
-> On a relentless pursuit to build intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud infrastructure. Whether it's deploying models at scale, optimizing performance, or enabling real-time intelligence, I'm passionate about engineering systems where smart meets scalable.
+I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️  
+> On a relentless pursuit to engineer intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud and DevOps infrastructure. From scalable ML deployments to CI/CD automation and real-time cloud pipelines, I build where smart meets scalable.
 
 ![Cloud Server Animation](assets/cloud-server.gif)
 
-## About Me
-- A final year **Computer Science and Engineering Student** at Symbiosis International University 🎓
-- **Passionate** about problem solving and contributing to impactful projects 🤖
-- **Research Intern** at Carnegie Mellon University, USA & IIT Mandi
-- **AI & Cloud Enthusiast**, currently focusing on **AWS Cloud Solutions** ☁️  
+---
 
-## 🎯 Career Interests & Opportunities
-Currently, I am focusing on:
-- Advancing skills in **AWS Cloud Services** and **serverless architectures**
-- Deepening my expertise in **Generative AI**, **Agentic AI workflows**, and **Retrieval-Augmented Generation (RAG)**
-- Leveraging my research background to build **scalable AI-powered applications**
+## 👨‍💻 About Me
+- A final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
+- **Passionate** about solving real-world problems through technology 🤖  
+- **Research Intern** at **Carnegie Mellon University, USA** & **IIT Mandi**  
+- **AI x Cloud x DevOps Enthusiast**, currently working with **AWS Cloud Solutions** ☁️  
 
-📬 **I am open to opportunities** in:
-- **Artificial Intelligence & Machine Learning**
-- **Cloud Engineering** (with a focus on AWS)
+---
+
+## 🚀 DevOps, Cloud & AI Interests
+
+### ✅ What I’m currently exploring:
+- **AWS Services**: Lambda, EC2, S3, CloudWatch, DynamoDB  
+- **Serverless Architectures** & real-time ML inference  
+- **DevOps Tools**: Docker, Kubernetes, GitHub Actions, Terraform  
+- **MLOps**: CI/CD pipelines for model training, evaluation, and deployment 
+
+## 📬 Open to Opportunities In:
+- 🌩️ **Cloud & DevOps Engineering**  
+- 🧠 **Artificial Intelligence**
+- ⚙️ **MLOps & Cloud-Native ML Deployment**  
+- 🛠️ **Infrastructure Automation (IaC)** 
 
 ---
 ## Technical Expertise
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-### 📚 Libraries
+
+### 🧰 DevOps & Infrastructure as Code (IaC)
 
 <p>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge" />
 </p>
 
-### 🧠 AI / ML
+
+### ☁️ AWS Cloud Services
 
 <p>
-  <img src="https://img.shields.io/badge/Supervised%20Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-black?style=for-the-badge&logo=amazon-ec2&logoColor=orange" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Gateway-4B0082?style=for-the-badge" />
+</p>
+
+
+### 🤖 MLOps & Cloud-Native AI
+
+<p>
+  <img src="https://img.shields.io/badge/Model%20Deployment-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD%20for%20ML-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Inference-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Monitoring-green?style=for-the-badge" />
+</p>
+
+
+### 🧠 AI / LLMs / Generative AI
+
+<p>
   <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Embeddings-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-228B22?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-orange?style=for-the-badge" />
 </p>
 
-### 🎵 Signal & Audio Processing
+
+### 🔧 Monitoring & Observability
 
 <p>
-  <img src="https://img.shields.io/badge/Audio%20Features-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wavelet%20Transform-4682B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FFT/STFT-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spectral%20Analysis-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
-### 📊 Data Analysis
+
+### 💾 Databases
 
 <p>
-  <img src="https://img.shields.io/badge/EDA-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
-### 🗄️ Database Management
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### ⚙️ Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-</p>
-
-
----
+----
 
 ![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=dark)
