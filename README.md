@@ -58,9 +58,7 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
   <img src="https://img.shields.io/badge/EC2-black?style=for-the-badge&logo=amazon-ec2&logoColor=orange" />
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Gateway-4B0082?style=for-the-badge" />
 </p>
 
 
@@ -70,7 +68,6 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
   <img src="https://img.shields.io/badge/Model%20Deployment-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CI/CD%20for%20ML-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Inference-00BFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Model%20Monitoring-green?style=for-the-badge" />
 </p>
 
@@ -78,7 +75,6 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 ### 🧠 AI / LLMs / Generative AI
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic%20AI-228B22?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Embeddings-orange?style=for-the-badge" />
@@ -88,7 +84,6 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 ### 🔧 Monitoring & Observability
 
 <p>
-  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazon&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
