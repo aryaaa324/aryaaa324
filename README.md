@@ -13,7 +13,6 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 - **Research Intern** at **Carnegie Mellon University, USA** & **IIT Mandi**  
 - **AI x Cloud x DevOps Enthusiast**, currently working with **AWS Cloud Solutions** ☁️  
 
----
 
 ## 🚀 DevOps, Cloud & AI Interests
 
