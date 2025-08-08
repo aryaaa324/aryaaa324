@@ -19,7 +19,7 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 ### ✅ What I’m currently exploring:
 - **AWS Services**: Lambda, EC2, S3, CloudWatch, DynamoDB  
 - **Serverless Architectures** & real-time ML inference  
-- **DevOps Tools**: Docker, GitHub Actions, Terraform  
+- **DevOps Tools**: Docker, GitHub Actions, Jenkins
 
 
 ## 📬 Open to Opportunities In:
