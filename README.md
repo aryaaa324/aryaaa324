@@ -1,7 +1,7 @@
 ## Hey, This is Arya!  
 
 I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️  
-> On a relentless pursuit to engineer intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud and DevOps infrastructure. From scalable ML deployments to CI/CD automation and real-time cloud pipelines, I build where smart meets scalable.
+> On a relentless pursuit to engineer intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud . I build where smart meets scalable.
 
 ![Cloud Server Animation](assets/cloud-server.gif)
 
@@ -11,22 +11,22 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 - A final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
 - **Passionate** about solving real-world problems through technology 🤖  
 - **Research Intern** at **Carnegie Mellon University, USA** & **IIT Mandi**  
-- **AI x Cloud x DevOps Enthusiast**, currently working with **AWS Cloud Solutions** ☁️  
+- **AI x Cloud  Enthusiast**, currently working with **AWS Cloud Solutions** ☁️  
 
 
-## 🚀 DevOps, Cloud & AI Interests
+## 🚀 Cloud & AI Interests
 
 ### ✅ What I’m currently exploring:
 - **AWS Services**: Lambda, EC2, S3, CloudWatch, DynamoDB  
 - **Serverless Architectures** & real-time ML inference  
-- **DevOps Tools**: Docker, Kubernetes, GitHub Actions, Terraform  
-- **MLOps**: CI/CD pipelines for model training, evaluation, and deployment 
+- **DevOps Tools**: Docker, GitHub Actions, Terraform  
+
 
 ## 📬 Open to Opportunities In:
-- 🌩️ **Cloud & DevOps Engineering**  
+- 🌩️ **Cloud Engineering**  
 - 🧠 **Artificial Intelligence**
 - ⚙️ **MLOps & Cloud-Native ML Deployment**  
-- 🛠️ **Infrastructure Automation (IaC)** 
+
 
 ---
 ## Technical Expertise
@@ -43,7 +43,6 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -81,14 +80,6 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 </p>
 
 
-### 🔧 Monitoring & Observability
-
-<p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-
 ### 💾 Databases
 
 <p>
@@ -114,6 +105,7 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 - 🎖 **Best Club Award (2024-2025)**: IEEE Student Branch, Symbiosis Institute of Technology, Nagpur — Led as Chair, achieving the Best Club Award for organizing 15+ national and international technical events, mentoring 100+ students, and facilitating industry collaborations.  
 - 🚀 **SITNovate 24-Hour Hackathon (2025)**: Successfully organized and led the SITNovate Hackathon at SIT Nagpur, with 780+ participants, fostering innovation and industry engagement.  
 -  **Rank 1, Semester 6**: Balanced my academics with leadership , research and technical skills.
+  
 ## Role of Responsibility
 - IEEE Chair, Symbiosis Institute of Technology Nagpur (Aug 2024-July 2025)
 - GirlScript Nagpur City Lead (Jan 2024-Oct 2024)
