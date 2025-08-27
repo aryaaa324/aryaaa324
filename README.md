@@ -89,8 +89,8 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryaaa324&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=dark)
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=tokyonight)
+![Arya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=tokyo-night)
 
 ---
  
