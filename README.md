@@ -88,26 +88,15 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
 </p>
 ----
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryaaa324&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaa324&layout=compact&theme=dark)
 
 ---
  
 ## 📬 Get in Touch  
-- 📧 Email: arya.kashikar03@gmail.com
-- 💼 Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/arya-kashikar-262b17285/)
+-  Email: arya.kashikar03@gmail.com
+-  Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/arya-kashikar-262b17285/)
 
----
 
-## 🏆 Achievements  
-- 🏅 **Research Excellence Awards (2023-2025)**: Received consecutive research awards for two years (2023-2025) in recognition of contributions with 8+ SCOPUS-indexed research papers published.  
-- 🎖 **Best Club Award (2024-2025)**: IEEE Student Branch, Symbiosis Institute of Technology, Nagpur — Led as Chair, achieving the Best Club Award for organizing 15+ national and international technical events, mentoring 100+ students, and facilitating industry collaborations.  
-- 🚀 **SITNovate 24-Hour Hackathon (2025)**: Successfully organized and led the SITNovate Hackathon at SIT Nagpur, with 780+ participants, fostering innovation and industry engagement.  
--  **Rank 1, Semester 6**: Balanced my academics with leadership , research and technical skills.
-  
-## Role of Responsibility
-- IEEE Chair, Symbiosis Institute of Technology Nagpur (Aug 2024-July 2025)
-- GirlScript Nagpur City Lead (Jan 2024-Oct 2024)
-- Lead of Computer Society of India(CSI), Symbiosis Institute of Technology Nagpur (Dec 2023-May 2024)
-- Coder, Google Developers Students Club, Symbiosis Institute of Technology Nagpur (Aug 2023-May 2024)
-- Member, Google WomenTechMakers, Nagpur (May 2022-Present)
+
