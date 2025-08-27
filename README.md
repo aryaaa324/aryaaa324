@@ -86,7 +86,7 @@ I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-----
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryaaa324&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=dark&count_private=true)  
