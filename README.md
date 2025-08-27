@@ -3,7 +3,7 @@
 I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️  
 > On a relentless pursuit to engineer intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud . I build systems where smart meets scalable.
 
-![Cloud Server Animation](assets/cloud-server.gif)
+![Cloud Server Animation](assets/cloud-server.gif) 
 
 ---
 
