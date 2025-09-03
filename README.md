@@ -1,91 +1,80 @@
 ## Hey, This is Arya!  
 
-I am **Hustling to deploy brains (AI) on brawn (Cloud)** 🧠☁️  
-> On a relentless pursuit to engineer intelligent, real-world solutions by combining the "brains" of AI with the "brawn" of cloud . I build systems where smart meets scalable.
+## 🚀 Hustling to Power Data with the Cloud 📊☁️  
+> On a relentless pursuit to engineer **data-driven, real-world solutions** by combining the **power of data** with the **brawn of cloud**.  
+> I build systems where **data flows seamlessly** and **scalability meets impact**.  
 
 ![Cloud Server Animation](assets/cloud-server.gif) 
 
 ---
-
-## 👨‍💻 About Me
-- A final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
-- **Passionate** about solving real-world problems through technology 🤖  
+## 👨‍💻 About Me  
+- Final year **Computer Science and Engineering Student** at Symbiosis International University 🎓  
+- **Passionate** about building reliable, scalable **data systems** 🤖  
 - **Research Intern** at **Carnegie Mellon University, USA** & **IIT Mandi**  
-- **AI x Cloud  Enthusiast**, currently working with **AWS Cloud Solutions** ☁️  
+- **Data Engineering x Cloud Enthusiast**, currently exploring **AWS Cloud Solutions** ☁️  
 
+## 📊 Data & Cloud Interests  
 
-## 🚀 Cloud & AI Interests
-
-### ✅ What I’m currently exploring:
-- **AWS Services**: Lambda, EC2, S3, CloudWatch, DynamoDB  
-- **Serverless Architectures** & real-time ML inference  
-- **DevOps Tools**: Docker, GitHub Actions, Jenkins
-
+### What I’m currently exploring:
+- **AWS Basics**: EC2, S3, RDS, Lambda, CloudWatch  
+- **Data Engineering Tools**: SQL, PySpark, Airflow, Snowflake 
+- **ETL & Data Pipelines**: Batch + Real-Time Data Processing  
 
 ## 📬 Open to Opportunities In:
-- 🌩️ **Cloud Engineering**  
-- 🧠 **Artificial Intelligence**
-- ⚙️ **MLOps & Cloud-Native ML Deployment**  
+- 🌩️ **Data Engineering & Cloud**  
+- 📊 **ETL & Data Pipelines**  
+- ⚙️ **Cloud Infrastructure for Data Systems**  
 
 
----
-## Technical Expertise
-### 💻 Programming Languages
+## ⚡ Technical Expertise  
 
+### 💻 Programming Languages  
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+</p>  
 
-
-### 🧰 DevOps & Infrastructure as Code (IaC)
-
+### 🧰 Data Engineering & DevOps  
 <p>
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=skyblue" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge" />
-</p>
+</p>  
 
-
-### ☁️ AWS Cloud Services
-
+### ☁️ AWS Cloud Basics  
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/EC2-black?style=for-the-badge&logo=amazon-ec2&logoColor=orange" />
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
+</p>  
 
-
-### 🤖 MLOps & Cloud-Native AI
-
+### 💾 Databases  
 <p>
-  <img src="https://img.shields.io/badge/Model%20Deployment-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD%20for%20ML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Monitoring-green?style=for-the-badge" />
-</p>
-
-
-### 🧠 AI / LLMs / Generative AI
-
-<p>
-  <img src="https://img.shields.io/badge/Agentic%20AI-228B22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-orange?style=for-the-badge" />
-</p>
-
-
-### 💾 Databases
-
-<p>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>  
+
+---
+
+## 🔗 Data Engineering Workflow  
+<p align="center">
+  <img src="https://img.shields.io/badge/Source-blue?style=for-the-badge" />
+  ⟶
+  <img src="https://img.shields.io/badge/ETL-orange?style=for-the-badge" />
+  ⟶
+  <img src="https://img.shields.io/badge/Data%20Lake-darkblue?style=for-the-badge" />
+  ⟶
+  <img src="https://img.shields.io/badge/Data%20Warehouse-green?style=for-the-badge" />
+  ⟶
+  <img src="https://img.shields.io/badge/Cloud%20Deployment-gray?style=for-the-badge" />
+  ⟶
+  <img src="https://img.shields.io/badge/Analytics-purple?style=for-the-badge" />
+</p>  
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryaaa324&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
