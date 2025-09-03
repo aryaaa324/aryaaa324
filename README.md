@@ -77,7 +77,7 @@
 </p>  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryaaa324&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aryaaa324)](https://git.io/streak-stats)
 
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=tokyonight)
 
