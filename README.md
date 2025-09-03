@@ -61,7 +61,7 @@
 
 ---
 
-## 🔗 Data Engineering Workflow  
+### 🔗 Data Engineering Workflow  
 <p align="center">
   <img src="https://img.shields.io/badge/Source-blue?style=for-the-badge" />
   ⟶
@@ -77,9 +77,11 @@
 </p>  
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryaaa324&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=tokyonight)
-![GitHub Activity in 2025](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=tokyo-night&from=2025-01-01&to=2025-09-01)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryaaa324&theme=purple-dark&hide_border=true)](https://git.io/streak-stats)
+
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=purple-dark)
+
+![GitHub Activity in 2025](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=purple-night&from=2025-01-01&to=2025-09-01)
 
 ---
  
