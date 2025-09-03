@@ -1,4 +1,4 @@
-## Hey, This is Arya!  
+## Hey, This is Arya!   
 
 ## 🚀 Hustling to Power Data with the Cloud 📊☁️  
 > On a relentless pursuit to engineer **data-driven, real-world solutions** by combining the **power of data** with the **brawn of cloud**.  
