@@ -77,11 +77,12 @@
 </p>  
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryaaa324&theme=purple-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryaaa324&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=purple-dark)
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=tokyonight)
 
-![GitHub Activity in 2025](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=purple-night&from=2025-01-01&to=2025-09-01)
+![GitHub Activity in 2025](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=tokyo-night&from=2025-01-01&to=2025-09-01)
+
 
 ---
  
