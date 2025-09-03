@@ -83,6 +83,7 @@
 
 ![GitHub Activity in 2025](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=tokyo-night&from=2025-01-01&to=2025-09-01)
 
+![GitHub Activity Jan–Sep 2025](./path-to-your-custom-activity-graph.png)
 
 ---
  
