@@ -79,7 +79,7 @@
 
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaaa324&show_icons=true&theme=tokyonight)
 
-![GitHub Activity in 2025](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=tokyo-night&from=2025-01-01&to=2025-09-01)
+![GitHub Activity in 2025](https://github-readme-activity-graph.vercel.app/graph?username=aryaaa324&theme=tokyo-night&from=2025-01-01&to=2025-10-22)
 
 
 ---
